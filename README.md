@@ -3,6 +3,12 @@ Graph Clustering with Graph Neural Networks __Modified by F.Velikonivtsev__ ([Or
 
 This is the implementation accompanying our paper, [Graph Clustering with Graph Neural Networks](https://arxiv.org/abs/2006.16904).
 
+## Install requeirements:
+```{bash}
+pip3 install -r requirements.txt
+
+```
+
 ## Example usage 
 
 This code will work on contact map with features and graph structure encoded in `.npz` format, store output in `dmon.tsv`. It will be suitable for AMBER usage:
