@@ -5,7 +5,7 @@ This is the implementation accompanying our paper, [Graph Clustering with Graph 
 
 ## Example usage 
 
-This code will work on contact map woth features and graph structure encoded in `.npz` format, store output in `dmon.tsv`. It will be suitable for AMBER usage:
+This code will work on contact map with features and graph structure encoded in `.npz` format, store output in `dmon.tsv`. It will be suitable for AMBER usage:
 
 
 ```python
