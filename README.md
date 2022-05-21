@@ -3,8 +3,10 @@ Graph Clustering with Graph Neural Networks __Modified by F.Velikonivtsev__ ([Or
 
 This is the implementation accompanying our paper, [Graph Clustering with Graph Neural Networks](https://arxiv.org/abs/2006.16904).
 
-Example usage - this code will work on contact map woth features and graph structure encoded in `.npz` format, store output in `dmon.tsv`. It will be suitable for AMBER usage.
----
+## Example usage 
+
+This code will work on contact map woth features and graph structure encoded in `.npz` format, store output in `dmon.tsv`. It will be suitable for AMBER usage:
+
 
 ```python
 
